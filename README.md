@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Henry <br>
+Hi, my name is Henry <br>
 
 
 # 💻 Tech Stack:
